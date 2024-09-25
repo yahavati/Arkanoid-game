@@ -10,7 +10,7 @@ This project is an implementation of the classic Arkanoid game using Object-Orie
 - **Game Mechanics**: Includes paddle control, ball movement, brick collision detection, and score tracking.
 - **Modular Design**: The game's architecture is designed for flexibility and reusability, making it easy to extend and maintain.
 - **GUI**: Utilizes Java’s graphical user interface (GUI) components to create an interactive user experience.
-- **OOP Principles**: The project emphasizes core OOP principles such as polymorphism, inheritance, delegation, and the use of abstract classes and design patterns like Observers.
+- **OOP Principles**: The project emphasizes core OOP principles such as polymorphism, inheritance, delegation, and the use of abstract classes and design patterns like Observers,singulation
 
 ## Screenshots
 
